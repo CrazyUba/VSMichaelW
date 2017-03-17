@@ -193,7 +193,7 @@
                         </li>
                         <li >
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="~/content/img/bosch-logo-de2.png" alt="">
+                                <a href="http://www.bosch-thermotechnology.com" target="_blank"><img class="img-circle img-responsive" src="~/content/img/bosch-logo-de2.png" alt=""></a>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -224,7 +224,7 @@
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="~/content/img/RandstadNovartis.png" alt="">
+                                <a href="http://www.randstad.de/" target="_blank"><img class="img-circle img-responsive" src="~/content/img/RandstadNovartis.png" alt=""></a>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -239,7 +239,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="~/content/img/logo-novartis_komplett_2.png" alt="">
+                                <a href="https://www.novartis.de/" target="_blank"><img class="img-circle img-responsive" src="~/content/img/logo-novartis_komplett_2.png" alt=""></a>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -299,40 +299,7 @@
 
     <!-- Footer -->
     <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    @*<ul class="list-inline text-center">
-                        <li>
-                            <a href="#">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                    </ul>*@
-                    @*<p class="copyright text-muted">Copyright &copy; Your Website 2016</p>*@
-                    <p class="copyright text-muted">Michael Willershausen, Cappeler Str. 17, 35039 Marburg<br />Tel.: 0152 / 57 64 72 78, E-Mail: <a href="mailto:miwilahn@yahoo.de">miwilahn@yahoo.de</a></p>
-                </div>
-            </div>
-        </div>
+        @RenderPage("Footer.cshtml")
     </footer>
 
     <!-- jQuery -->

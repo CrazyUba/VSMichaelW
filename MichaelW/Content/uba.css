@@ -29,3 +29,11 @@
     text-align:left;
 }
 
+/* position: sticky bei kleinen viewports aufheben*/
+/*
+@media all and (max-width: 35em) {
+  #sticky {
+    position: static;
+  }
+}
+*/
