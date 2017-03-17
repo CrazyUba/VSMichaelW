@@ -414,7 +414,7 @@
 }
 .timeline > li .timeline-panel:after {
   border-left-width: 0;
-  border-right-width: 140px;
+  border-right-width: 14px;
   left: -14px;
   right: auto;
 }
@@ -526,7 +526,8 @@
     min-height: 170px;
   }
   .timeline > li .timeline-panel {
-    padding: 0 20px 20px 100px;
+    /*padding: 0 20px 20px 100px;*/
+    padding: 0 10px 20px 0px;
   }
   .timeline > li .timeline-image {
     width: 170px;
@@ -537,7 +538,8 @@
     margin-top: 40px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
-    padding: 0 100px 20px 20px;
+    /*padding: 0 100px 20px 20px;*/
+    padding: 0 0px 20px 10px;
   }
 }
 /*.team-member {
@@ -750,3 +752,7 @@
 /*body {
 /*  webkit-tap-highlight-color: #fed136;
 /*}
+
+
+
+
