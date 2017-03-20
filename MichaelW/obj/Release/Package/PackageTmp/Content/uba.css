@@ -1,0 +1,43 @@
+﻿
+
+
+/* Lebenslauf */
+
+#fotoMichael {
+    margin: 40px;
+    margin-top: 70px;
+    width: 140px;
+    position:fixed;
+}
+
+.panel-group h4 {
+    font-family: Lora, 'Times New Roman', serif;
+    font-size: 1em;
+
+
+}
+
+.panel-heading {
+    text-align:left;
+                                             
+
+}
+.panel-body {
+    /*color: #333333; /* clean-blog.css */
+    color: #777777; /* agency.css 
+    /*color: #999999; /* bootstrap.css */
+    text-align:left;
+}
+
+/* position: sticky bei kleinen viewports aufheben*/
+/*
+@media all and (max-width: 35em) {
+  #sticky {
+    position: static;
+  }
+}
+*/
+
+footer {
+    padding: 50px 0 65px;
+}

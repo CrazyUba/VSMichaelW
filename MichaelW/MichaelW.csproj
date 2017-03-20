@@ -210,8 +210,38 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\img\alkoni_gebaeude_2017.jpg" />
+    <Content Include="Content\img\alkoni_gebaeude_2017_gross.jpg" />
+    <Content Include="Content\img\bacteria-106583_1920.jpg" />
+    <Content Include="Content\img\bosch-logo-de2.png" />
+    <Content Include="Content\img\dna-163466_1280.jpg" />
+    <Content Include="Content\img\duisburg-1247179_1920.jpg" />
+    <Content Include="Content\img\factory-1352544_1920.jpg" />
+    <Content Include="Content\img\flasks-606612_1920.jpg" />
+    <Content Include="Content\img\FotoMichael.PNG" />
+    <Content Include="Content\img\germany-1354274_1920.jpg" />
+    <Content Include="Content\img\lab-512503_1920.jpg" />
+    <Content Include="Content\img\laboratory-1009190_1920.jpg" />
+    <Content Include="Content\img\lapadu-1385450_1920.jpg" />
+    <Content Include="Content\img\logo-novartis.png" />
+    <Content Include="Content\img\logo-novartis_komplett_2.png" />
+    <Content Include="Content\img\logo_alkoni.jpg" />
+    <Content Include="Content\img\Logo_kms_mr.png" />
+    <Content Include="Content\img\Logo_kms_mr_small.png" />
+    <Content Include="Content\img\logo_NewStyle_adjusted.png" />
+    <Content Include="Content\img\medic-563423_1920.jpg" />
+    <Content Include="Content\img\medications-257346_1920.jpg" />
+    <Content Include="Content\img\microbiology-163470_1280.jpg" />
+    <Content Include="Content\img\microbiology-163521_1280.jpg" />
+    <Content Include="Content\img\RandstadNovartis.png" />
+    <Content Include="Content\img\science-683264_1920.jpg" />
+    <Content Include="Content\img\SucheArbeit.png" />
+    <Content Include="Content\img\Unterschrift.png" />
     <Content Include="Content\uba.css" />
-    <Content Include="favicon.ico" />
+    <Content Include="favicon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="favicon_old.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -220,6 +250,11 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\Unterlagen\InitiativbewerbungHennigArzneimittel.doc" />
+    <Content Include="Content\Unterlagen\Lebenslauf.pdf" />
+    <Content Include="Content\Unterlagen\ZeugnisBosch.pdf" />
+    <Content Include="Content\Unterlagen\zeugnisRandstad.pdf" />
+    <None Include="Properties\PublishProfiles\MichaelWwwwroot_1.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
