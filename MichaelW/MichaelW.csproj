@@ -280,6 +280,7 @@
     <Content Include="startbootstrap-clean-blog-gh-pages\.gitignore" />
     <Content Include="startbootstrap-clean-blog-gh-pages\about.html" />
     <Content Include="startbootstrap-clean-blog-gh-pages\contact.html" />
+    <Content Include="startbootstrap-clean-blog-gh-pages\css\clean-blog_uba.css" />
     <Content Include="startbootstrap-clean-blog-gh-pages\css\clean-blog.css" />
     <Content Include="startbootstrap-clean-blog-gh-pages\css\clean-blog.min.css" />
     <Content Include="startbootstrap-clean-blog-gh-pages\gulpfile.js" />
@@ -304,6 +305,7 @@
     <Content Include="startbootstrap-clean-blog-gh-pages\vendor\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="startbootstrap-clean-blog-gh-pages\vendor\jquery\jquery.js" />
     <Content Include="startbootstrap-clean-blog-gh-pages\vendor\jquery\jquery.min.js" />
+    <Content Include="Views\Home\Download.cshtml" />
     <None Include="Views\Home\MotivationText.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">

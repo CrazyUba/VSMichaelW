@@ -47,5 +47,12 @@ namespace MichaelW.Controllers
 
             return View();
         }
+
+        public ActionResult Download()
+        {
+            //ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
