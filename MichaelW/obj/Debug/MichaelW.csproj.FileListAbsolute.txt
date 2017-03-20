@@ -80,3 +80,4 @@ C:\Data\VisualStudio\MichaelW\MichaelW\bin\Microsoft.Owin.Security.MicrosoftAcco
 C:\Data\VisualStudio\MichaelW\MichaelW\obj\Debug\MichaelW.csprojResolveAssemblyReference.cache
 C:\Data\VisualStudio\MichaelW\MichaelW\obj\Debug\MichaelW.dll
 C:\Data\VisualStudio\MichaelW\MichaelW\obj\Debug\MichaelW.pdb
+C:\Data\VisualStudio\MichaelW\MichaelW\bin\favicon.ico

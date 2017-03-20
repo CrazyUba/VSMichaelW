@@ -50,8 +50,11 @@ namespace MichaelW.Controllers
 
         public ActionResult Download()
         {
-            //ViewBag.Message = "Your contact page.";
+            return View();
+        }
 
+        public ActionResult Impressum()
+        {
             return View();
         }
     }

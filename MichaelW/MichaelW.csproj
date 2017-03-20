@@ -341,6 +341,7 @@
     <Content Include="startbootstrap-clean-blog-gh-pages\vendor\jquery\jquery.js" />
     <Content Include="startbootstrap-clean-blog-gh-pages\vendor\jquery\jquery.min.js" />
     <Content Include="Views\Home\Download.cshtml" />
+    <Content Include="Views\Home\Impressum.cshtml" />
     <None Include="Views\Home\MotivationText.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
