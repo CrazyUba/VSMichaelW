@@ -250,10 +250,13 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Content\Unterlagen\InitiativbewerbungHennigArzneimittel.doc" />
-    <Content Include="Content\Unterlagen\Lebenslauf.pdf" />
     <Content Include="Content\Unterlagen\ZeugnisBosch.pdf" />
     <Content Include="Content\Unterlagen\zeugnisRandstad.pdf" />
+    <Content Include="Content\Unterlagen\Anschreiben_Willershausen.pdf" />
+    <Content Include="Content\Unterlagen\Bewerbung_Willershausen.pdf" />
+    <Content Include="Content\Unterlagen\Deckblatt_Willershausen.pdf" />
+    <Content Include="Content\Unterlagen\Lebenslauf_Willershausen.pdf" />
+    <Content Include="Content\Unterlagen\Motivationsschreiben_Willershausen.pdf" />
     <None Include="Properties\PublishProfiles\MichaelWwwwroot_1.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
